@@ -1,10 +1,10 @@
-import NoteContainer from "../NoteContainer/NoteContainer";
+import NoteEditor from "../Note/NoteEditor";
 
 const Note = () => {
   return (
     <div className="border border-white p-4">
         <div className="p-2">
-           <NoteContainer />
+           <NoteEditor />
         </div>
     </div>
     );

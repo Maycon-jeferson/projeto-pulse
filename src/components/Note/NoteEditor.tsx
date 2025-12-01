@@ -1,5 +1,5 @@
 
-const NoteContainer = () => {
+const NoteEditor = () => {
 
   return(
     <div className="">
@@ -11,4 +11,4 @@ const NoteContainer = () => {
   )
 };
 
-export default NoteContainer;
+export default NoteEditor;
